@@ -7,9 +7,13 @@ I enjoy solving practical problems using **Python, SQL, and data analysis techni
 ## Technical Skills
 
 **Programming:** Python
+
 **Databases:** SQL, MySQL, PostgreSQL
+
 **Data Analysis:** Pandas, Data Cleaning, Data Visualization
+
 **Automation & Testing:** REST API Testing, Python Automation Scripts
+
 **Tools:** Git, GitHub, Linux, Jupyter Notebook
 
 ## Featured Projects
