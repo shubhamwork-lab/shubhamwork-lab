@@ -1,9 +1,7 @@
 # Hi, I'm Shubham 👋
 
 I'm a data and automation enthusiast with professional experience in software testing and backend data validation.
-
 After a career break, I am currently rebuilding my portfolio through hands-on projects in **Data Analysis, ETL pipelines, and API automation**.
-
 I enjoy solving practical problems using **Python, SQL, and data analysis techniques**.
 
 ## Technical Skills
@@ -18,28 +16,13 @@ I enjoy solving practical problems using **Python, SQL, and data analysis techni
 
 ### Customer Churn Risk Analysis
 Data analysis and churn prediction using Python, SQL, and machine learning.
+
 Repository: https://github.com/shubhamwork-lab/customer_churn_risk_analysis
 
 ### Customer Behavior Analysis
 Exploratory data analysis to identify customer engagement patterns and behavioral insights.
+
 Repository: https://github.com/shubhamwork-lab/customer_behavior_analysis
-
-## Featured Projects
-
-### Customer Churn Risk Analysis
-
-Data analysis and churn prediction using Python, SQL, and machine learning.
-
-Repository:
-https://github.com/shubhamwork-lab/customer_churn_risk_analysis
-
-### Customer Behavior Analysis
-
-Exploratory data analysis to identify customer engagement patterns and behavioral insights.
-
-Repository:
-https://github.com/shubhamwork-lab/customer_behavior_analysis
-
 
 ## Currently Learning
 * Python-based automation scripts
