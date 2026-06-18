@@ -1,8 +1,8 @@
 # Hi, I'm Shubham 👋
 
-I'm a data and automation enthusiast with professional experience in software testing and backend data validation.
-After a career break, I am currently rebuilding my portfolio through hands-on projects in **Data Analysis, ETL pipelines, and API automation**.
-I enjoy solving practical problems using **Python, SQL, and data analysis techniques**.
+Software Test Engineer with 2 years of experience in functional testing, backend data validation, SQL analysis, and quality assurance. I enjoy solving practical problems using **Python, SQL, and data analysis techniques**..
+
+Currently expanding my skills through hands-on projects in data analysis, automation, and backend data processing.
 
 ## Technical Skills
 
@@ -12,9 +12,9 @@ I enjoy solving practical problems using **Python, SQL, and data analysis techni
 
 **Data Analysis:** Pandas, Data Cleaning, Data Visualization
 
-**Automation & Testing:** REST API Testing, Python Automation Scripts
+**Testing & Automation:** Functional Testing, REST API Testing, Python Automation Scripts
 
-**Tools:** Git, GitHub, Linux, Jupyter Notebook
+**Tools:** Git, GitHub, Linux, Excel, Jupyter Notebook, Power BI
 
 ## Featured Projects
 
@@ -29,14 +29,14 @@ Exploratory data analysis to identify customer engagement patterns and behaviora
 Repository: https://github.com/shubhamwork-lab/customer_behavior_analysis
 
 ## Currently Learning
-* Python-based automation scripts
 * API Automation
 * Advanced SQL queries and query optimization
-* Data pipeline and ETL workflow development
+* Python-based automation scripts
+* Data pipeline and ETL Concepts
 
 ## Connect With Me
 
 Email: bharti.shubham.work@gmail.com
 
-I’m open to opportunities in **Data Analysis, QA Automation, and Data Engineering** roles.
+Open to opportunities in **QA, Data Analysis, Reporting Analysis, Operations Analysis, and QA Automation.**
 
