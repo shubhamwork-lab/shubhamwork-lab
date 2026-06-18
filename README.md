@@ -1,6 +1,6 @@
 # Hi, I'm Shubham 👋
 
-Software Test Engineer with 2 years of experience in functional testing, backend data validation, SQL analysis, and quality assurance. I enjoy solving practical problems using **Python, SQL, and data analysis techniques**..
+Software Test Engineer with 2 years of experience in functional testing, backend data validation, SQL analysis, and quality assurance. I enjoy solving practical problems using **Python, SQL, and data analysis techniques**.
 
 Currently expanding my skills through hands-on projects in data analysis, automation, and backend data processing.
 
